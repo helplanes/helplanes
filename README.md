@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 🌱 **I’m currently learning:**  <br> > Advanced Python, <br> > Full Stack Dev, <br> > Complete Ethical Hacking/Pentesting. <br><br>⚡ **Fun fact:**  <br>I love learning & hacking.
 
 
