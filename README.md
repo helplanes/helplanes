@@ -12,13 +12,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-murex.vercel.app/api?username=zvery-MI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats-sigma-murex.vercel.app/api?username=zvery-MI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-murex.vercel.app/api?username=zvery-MI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-murex.vercel.app/api?username=zveryMI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-sigma-murex.vercel.app/api?username=zveryMI&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-murex.vercel.app/api?username=zveryMI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-readme-stats-sigma-murex.vercel.app/api?username=zvery-MI&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-readme-stats-sigma-murex.vercel.app/api?username=zveryMI&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zvery&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zveryMI&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
