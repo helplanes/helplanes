@@ -11,7 +11,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br><br>
 # 🚂 Exploring:
-![!BlockChain](https://img.shields.io/badge/BlockChain-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![!BlockChain](https://img.shields.io/badge/BlockChain-000000?style=for-the-badge&logo=bitcoin&logoColor=white) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
