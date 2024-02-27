@@ -12,3 +12,6 @@
 <br><br>
 # 🚂 Exploring:
 ![!BlockChain](https://img.shields.io/badge/BlockChain-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
