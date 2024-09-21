@@ -3,7 +3,10 @@
 </div>
 
 # 💫 About Me:
-🌱 **I’m currently learning:**  <br> > Java & JS <br> > Full Stack Dev <br> > DSA <br><br>⚡ **Fun fact:**  <br> > I love snooping around unknown places <br> > Loves learning
+🌱 **I’m currently learning:**
+   - Java & JS
+   - Full Stack Dev
+   - DSA <br><br>⚡ **Fun fact:**  <br> > I love snooping around unknown places <br> > Loves learning
 
 
 ## 🌐 Socials:  
