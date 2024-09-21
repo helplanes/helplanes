@@ -7,7 +7,10 @@
    - Java & JS
    - Full Stack Dev
    - DSA
-<br><br>⚡ **Fun fact:**  <br> > I love snooping around unknown places <br> > Loves learning
+<br><br>
+⚡ **Fun fact:**
+   - I love snooping around unknown places
+   - Loves learning
 
 
 ## 🌐 Socials:  
