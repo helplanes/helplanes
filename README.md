@@ -1,13 +1,5 @@
-<style>
-  body {
-    font-family: consolas, monaco, monospace;
-  }
-</style>
-
-<div align="center">
+<div style="font-family: consolas, monaco, monospace;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29hazlwYXBsaGhocHp6dWhmazM4aWlyd2VydHZ2Y3Z5aTJuamxvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/apNfMXmfMAEQZKbb6q/giphy.gif" width="600" height="338">
-</div>
-
 # 💫 About Me:
 🌱 **I’m currently learning:**
    - Java & JS
@@ -31,5 +23,4 @@
 # 🚂 Exploring:
 ![!BlockChain](https://img.shields.io/badge/BlockChain-000000?style=for-the-badge&logo=bitcoin&logoColor=white) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+</div>
