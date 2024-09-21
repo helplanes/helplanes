@@ -6,8 +6,9 @@
 🌱 **I’m currently learning:**
    - Java & JS
    - Full Stack Dev
-   - DSA
-<br><br>
+   - DS
+
+
 ⚡ **Fun fact:**
    - I love snooping around unknown places
    - Loves learning
