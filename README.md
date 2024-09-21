@@ -1,6 +1,7 @@
 <div style="font-family: consolas, monaco, monospace;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29hazlwYXBsaGhocHp6dWhmazM4aWlyd2VydHZ2Y3Z5aTJuamxvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/apNfMXmfMAEQZKbb6q/giphy.gif" width="600" height="338">
-# 💫 About Me:
+
+  # 💫 About Me:
 🌱 **I’m currently learning:**
    - Java & JS
    - Full Stack Dev
