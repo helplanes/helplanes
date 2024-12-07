@@ -29,4 +29,4 @@
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helplanes&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helplanes&layout=compact&theme=radical)
