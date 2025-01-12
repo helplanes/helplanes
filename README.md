@@ -1,5 +1,6 @@
 # Hi I'm Krish aka helplanes!
-An undergrad 1st year student. Learning and building stuff.
+A 1st year undergrad student. Learning and building stuff.
+Checkout <a href="https://helplanes.live/">helplanes.live</a>
 
   # 💫 About Me:
 🌱 **I’m currently learning:**
