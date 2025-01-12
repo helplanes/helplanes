@@ -21,8 +21,8 @@ Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 
 ## Github Stats
 <a href="https://github.com/helplanes/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=helplanes&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=helplanes&show_icons=true&theme=radical" />
 </a><a href="https://github.com/helplanes/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helplanes&layout=compact&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helplanes&layout=compact&theme=radical" />
 </a>
 
