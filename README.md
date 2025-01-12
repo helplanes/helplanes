@@ -26,3 +26,8 @@ Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helplanes&layout=compact&theme=radical)
+
+
+
+
+[![helplanes's GitHub stats](https://github-readme-stats.vercel.app/api?username=helplanes)](https://github.com/helplanes/github-readme-stats)
