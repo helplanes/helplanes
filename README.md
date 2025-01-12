@@ -14,7 +14,7 @@ Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 # :hammer_and_wrench: Tech Stack:
 
 ## Github Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ft34cjf2s-krishbhagwat.vercel.app?user=helplanes&theme=radical" alt="GitHub Streak" /></a>
+<a href="https://github.com/helplanes/"><img src="https://github-readme-streak-stats-ft34cjf2s-krishbhagwat.vercel.app?user=helplanes&theme=radical" alt="GitHub Streak" /></a>
 <div>
 <a href="https://github.com/helplanes/">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=helplanes&show_icons=true&theme=radical" />
