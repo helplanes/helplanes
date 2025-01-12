@@ -4,9 +4,8 @@ Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 
   # 💫 About Me:
 🌱 **I’m currently learning:**
-   - Java & JS
-   - Full Stack Dev
-   - DS
+   - Java / DSA
+   - MERN Stack
 
 
 ## 🌐 Socials:  
