@@ -15,9 +15,11 @@ Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 
 
 ## Github Stats
-<div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=helplanes&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+
+
+<a href="https://github.com/helplanes/">
+  <img height=180 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=helplanes&theme=dark&background=000000" />
+</a>
 <a href="https://github.com/helplanes/">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=helplanes&show_icons=true&theme=radical" />
 </a>
