@@ -25,5 +25,4 @@ Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helplanes&layout=compact&theme=radical)
 
-
-[![helplanes's GitHub stats](https://github-readme-stats.vercel.app/api?username=helplanes)](https://github.com/helplanes/github-readme-stats)](https://camo.githubusercontent.com/2157e06322233bc870dc39eb6464d57470d3a62ce4bf440d800864dfa9b0a27f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6666666c616273266c61796f75743d636f6d70616374)
+[![Helplane's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?zvery0)](https://github.com/anuraghazra/github-readme-stats)
