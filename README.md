@@ -28,5 +28,5 @@ Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 </a>
 <br>
 <a href="https://github.com/helplanes/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zvery0&layout=compact&theme=radical" />
+  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zvery0&layout=compact&theme=radical" />
 </a>
