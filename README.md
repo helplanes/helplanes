@@ -15,7 +15,9 @@ Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 
 ## Github Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-pearl.vercel.app?user=helplanes&theme=radical" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img height=180 align="center" src="https://github-readme-streak-stats-six-pearl.vercel.app?user=helplanes&theme=radical" />
+</a>
 <a href="https://github.com/helplanes/">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=helplanes&show_icons=true&theme=radical" />
 </a>
