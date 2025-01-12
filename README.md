@@ -21,7 +21,7 @@ Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 
 ## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=helplanes)] <br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) <br>
 <a href="https://github.com/helplanes/">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=helplanes&show_icons=true&theme=radical" />
 </a>
