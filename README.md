@@ -1,7 +1,5 @@
-<div style="font-family: consolas, monaco, monospace;">
-  <div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29hazlwYXBsaGhocHp6dWhmazM4aWlyd2VydHZ2Y3Z5aTJuamxvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/apNfMXmfMAEQZKbb6q/giphy.gif" width="600" height="338">
-  </div>
+# Hi I'm Krish aka helplanes!
+## An undergrad 1st year student. Learning and building stuff.
 
   # 💫 About Me:
 🌱 **I’m currently learning:**
