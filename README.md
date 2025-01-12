@@ -25,4 +25,4 @@ Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helplanes&layout=compact&theme=radical)
 
-[![Helplane's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zvery0)](https://github.com/anuraghazra/github-readme-stats)
+[![Helplane's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=zvery0&show_icons=true&theme=radical)
