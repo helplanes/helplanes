@@ -7,7 +7,8 @@ Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
    - Java / DSA
    - MERN Stack
    - Neural Networks
-   - STartup 
+   - To build my own startup
+   - Basic Projects and OpenSource Contributions! 
 
 
 # 💻 Tech Stack:
