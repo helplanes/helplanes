@@ -6,10 +6,8 @@ Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 🌱 **I’m currently learning:**
    - Java / DSA
    - MERN Stack
-
-
-## 🌐 Socials:  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/helplanes) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/helplanes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-bhagwat-bbb957255/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20413840) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1037600471730364446)
+   - Neural Networks
+   - STartup 
 
 
 # 💻 Tech Stack:
