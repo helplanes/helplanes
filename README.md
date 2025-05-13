@@ -3,12 +3,10 @@
 Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 
   # 💫 About Me:
-🌱 **I’m currently learning:**
-   - Java / DSA
-   - MERN Stack
-   - Neural Networks
-   - To build my own startup
-   - Basic Projects and OpenSource Contributions! 
+🌱 **Currently learning:**
+   - Machine Learning
+   - Startup
+   - OpenSource Contributions! 
 
 
 # :hammer_and_wrench: Tech Stack:
