@@ -27,5 +27,3 @@ Total Code Time
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helplanes&layout=compact&theme=radical" />
 </a>
 <br>
-
-![image](https://github.com/user-attachments/assets/1abcf642-67a9-4dd2-a32b-4deb35d212d6)
