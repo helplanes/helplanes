@@ -1,4 +1,4 @@
-# Hi! I'm Krish aka 'helplanes'!
+# Hi! I'm Krish Bhagwat
 Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
 
 # 📊 Github Stats
