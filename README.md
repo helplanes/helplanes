@@ -1,5 +1,5 @@
 # Hi! I'm Krish Bhagwat
-Checkout <a href="https://helplanes.live/">**helplanes.live**</a> for more info!
+Checkout <a href="https://krishbhagwat.lanes.gg/">**krishbhagwat.gg**</a> for more info!
 
 # 📊 Github Stats
 Total Code Time
