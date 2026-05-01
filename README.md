@@ -1,5 +1,5 @@
 # Hi! I'm Krish Bhagwat
-Building <a href="https://lanes.gg/">**lanes.gg**</a>! Drop me a mail at [krishb@lanes.gg](mailto:krishb@lanes.gg) or [hello@lanes.gg](mailto:hello@lanes.gg) to discuss any potential collaborations. 
+Building <a href="https://lanes.gg/">**lanes.gg**</a>! <br> Drop me a mail at [krishb@lanes.gg](mailto:krishb@lanes.gg) or [hello@lanes.gg](mailto:hello@lanes.gg) to discuss any potential collaborations. 
 
 # 📊 Github Stats
 
